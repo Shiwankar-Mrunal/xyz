@@ -6,3 +6,5 @@ git or
 no"
 Thank You!
 Hiiiiii
+Good Morning!
+Have a nice day.
